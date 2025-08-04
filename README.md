@@ -40,7 +40,7 @@ avinash_portfolio/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/avinash-portfolio.git
+git clone https://github.com/Avinash2161994/avinash-portfolio.git
 cd avinash_portfolio
 
 Backend Setup (/backend)
