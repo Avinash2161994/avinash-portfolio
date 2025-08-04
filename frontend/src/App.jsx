@@ -5,9 +5,9 @@ import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 
 <nav className="navbar">
-  <a href="#about">About</a>
-  <a href="#projects">Projects</a>
-  <a href="#contact">Contact</a>
+  <a href="about">About</a>
+  <a href="projects">Projects</a>
+  <a href="contact">Contact</a>
 </nav>
 
 function App() {
@@ -121,3 +121,4 @@ function App() {
 }
 
 export default App;
+
